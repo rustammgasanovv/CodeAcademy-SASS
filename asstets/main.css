@@ -1,0 +1,19 @@
+.parent {
+  width: 100px;
+  background-color: red;
+}
+.parent .box1 {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
+.parent .box2 {
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+}
+.parent .box3 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+}/*# sourceMappingURL=main.css.map */
